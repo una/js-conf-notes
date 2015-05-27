@@ -11,6 +11,7 @@ JavaScript CSS | [Parsha Pourkhomami](http://twitter.com/parshap) | [Link](/05-j
 Knitting for Javascripters | [Mariko Kosaka](http://twitter.com/kosamari) | [Link](/07-knitting-for-jsers.md) | [Link](http://kosamari.com/presentation/jsconf-2015/)| Really fun talk, highly recommend checking out slides :star:
 Cold War | [Simon Swain](http://twitter.com/simon_swain) | [Link](/08-cold-war.md) | [Link](https://simonswain.com/coldwar) | Oh my gosh loved it :rocket: Super rad slides
 Concurrency and Parallelism in JavaScript | [Naveed Ihsanullah](http://twitter.com/naveedi) | [Link](/09-concurrency.md) |  | Detailed, important talk
+Amazing Things One Can Do With JS and the NES | [Michael Matuzak](http://twitter.com/mmatuzak) | [Link](/10-nes.md) |  | Lots of sweet sound demo-ing
 
 
 ## More Links
