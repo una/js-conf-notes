@@ -11,3 +11,4 @@
 - service workers
 - transpile or polyfill the features you want in the future
 - ES6 --> Babel
+- Hybrid App Development
