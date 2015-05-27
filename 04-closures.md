@@ -1,4 +1,4 @@
-You Wont Believe This One Weird Way to Rewrite Closures by Jonathan Martin
+You Wont Believe This One Weird Way to Rewrite Closures by [Jonathan Martin](https://twitter.com/nybblr)
 ---
 
 closure() === scope + statements;
