@@ -9,7 +9,8 @@ You Wont Believe This One Weird Way to Rewrite Closures | [Jonathan Martin](http
 JavaScript CSS | [Parsha Pourkhomami](http://twitter.com/parshap) | [Link](/05-js-css.md) | | Well-timed examples and pace, interesting ideas
 (math == art && art == code) | [John Brown](http://twitter.com/thisisjohnbrown) | [Link](/06-code-art.md) | | Amazing demos & talk, see his Codepen for more! :sparkles:
 Knitting for Javascripters | [Mariko Kosaka](http://twitter.com/kosamari) | [Link](/07-knitting-for-jsers.md) | [Link](http://kosamari.com/presentation/jsconf-2015/)| Really fun talk, highly recommend checking out slides :star:
-Cold War | [Simon Swain](http://twitter.com/simon_swain) | [Link](/09-cold-war.md) | [Link](https://simonswain.com/coldwar) | Oh my gosh loved it :rocket: Super rad slides
+Cold War | [Simon Swain](http://twitter.com/simon_swain) | [Link](/08-cold-war.md) | [Link](https://simonswain.com/coldwar) | Oh my gosh loved it :rocket: Super rad slides
+Concurrency and Parallelism in JavaScript | [Naveed Ihsanullah](http://twitter.com/naveedi) | [Link](/09-concurrency.md) |  | Detailed, important talk
 
 
 ## More Links
