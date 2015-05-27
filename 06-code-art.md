@@ -58,4 +58,4 @@ Options:
 
 1. **Uncontext:** [Link](http://www.uncontext.com/) --publicly accessible web sockets you can connect to -- change overtime according to certain rules and patterns. (Make something with it!)
 2. **Codepen:** [Link](http://codepen.io) -- find something visually interesting and play with it
-3/ **Creative Code Group:** Find one near you!
+3. **Creative Code Group:** Find one near you! And if you can't find one, start one!
