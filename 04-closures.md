@@ -54,25 +54,6 @@ var Scope = (function() {
 }
 ```
 
-Making CHanges
-
-```
-Scope.prototype.push = function() {
-  //any time we look up a variable we will get it, but when we try to set it, we get a new var w/o changing the parent:
-  this._dict = this._forkDict();
-}
-
-// and then...
-
-Scope.prorotupe._forkDict = function() {
-  var dict = this._dict;
-  var F = function() {};
-  F.prototype = Object.create(dict);
-  F.prototype.constructor = F;
-  F.prototype._parent ...
-}
-```
-
 This is going too fast for me to keep up :) But its pretty awesome
 
 - Building a function (which always has its own scope), to `push` it into the `parent scope []`, then `pop` it
