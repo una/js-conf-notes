@@ -13,4 +13,4 @@ This was essentially an amazing themed talk about JS simulations.
 2. Request Animation Frame
 3. Canvas
 
-*these slides are too epic to take notes on this talk*
+*these [slides](https://simonswain.com/coldwar) are too epic to take notes on this talk*
