@@ -1,4 +1,4 @@
-# Build the Mobile Web You Want
+## Build the Mobile Web You Want
 
 [Kate Hudson](http://twitter.com/k88hudson)
 ---
@@ -14,7 +14,7 @@
 - Hybrid App Development (Famo.us, etc.)
 - Think about the offline experience
 
-### Android Dev
+- [Filer](https://github.com/ebidel/filer.js/)
 - [Crosswalk](http://crosswalk-project.org)
 - allows you to access camera and other native features with JS
 
