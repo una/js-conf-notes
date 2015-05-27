@@ -1,6 +1,4 @@
-## Build the Mobile Web You Want
-
-[Kate Hudson](http://twitter.com/k88hudson)
+Build the Mobile Web You Want by [Kate Hudson](http://twitter.com/k88hudson)
 ---
 
 - "If Amazon can do without Javascript, so can you" <-- circa 2004

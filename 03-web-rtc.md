@@ -1,6 +1,4 @@
-## Communicate All the Things... With WebRTC!
-
-by [Kyle Tyacke](https://twitter.com/geekgonenomad)
+Communicate All the Things... With WebRTC! by [Kyle Tyacke](https://twitter.com/geekgonenomad)
 ---
 
 ### Examples using WebRTC:
