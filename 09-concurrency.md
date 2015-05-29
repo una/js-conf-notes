@@ -24,3 +24,5 @@ Concurrency and Parallelism in JavaScript by [Naveed Ihsanullah](http://twitter.
 - Demo: JS Mandelbrot -- perf wins across all cores
 - Demo: Unity WebGL Benchmark -- adding more cores brings us closer to native performance
 - currently in nightly
+
+[There are Better Notes Here](https://github.com/nchase/talks/blob/master/2015/jsconf/09-A.md)

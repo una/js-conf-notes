@@ -1,5 +1,7 @@
 # JS Conf 2015
 
+## Day One
+
 Talk Title | Speaker | My Notes | Talk Slides | Notes
 ---- | --- | --- | --- | ---
 Accessibility and JS | [Felipe de Albuquerque](https://twitter.com/felipedeolinda) | [Link](/01-accessibility-and-js.md) | | Non-English, which was a unique experience
@@ -13,11 +15,22 @@ Cold War | [Simon Swain](http://twitter.com/simon_swain) | [Link](/08-cold-war.m
 Concurrency and Parallelism in JavaScript | [Naveed Ihsanullah](http://twitter.com/naveedi) | [Link](/09-concurrency.md) |  | Detailed, important talk
 Amazing Things One Can Do With JS and the NES | [Michael Matuzak](http://twitter.com/mmatuzak) | [Link](/10-nes.md) |  | Lots of sweet sound demo-ing
 
+## Day Two
+
+Talk Title | Speaker | My Notes | Talk Slides | Notes
+---- | --- | --- | --- | ---
+Re-examining Recipe Search | [Tracy Hinds](http://twitter.com/hackygolucky) | [Link](/11-graph-database.md) | | Beautiful slides
+Recreating a Dial-up Modem in JS | [Sam Saccone](http://twitter.com/samccone) | [Link](/12-dialup-modem.md) | [Link](http://slides.com/samccone/jsconf-us/#/) |
 
 ## More Links
 
 - [JS Conf Website](http://2015.jsconf.us/)
 - [Track A Transcript](http://2015.jsconf.us/t/track_a.html)
 - [Track B Transcript](http://2015.jsconf.us/t/track_b.html)
-- [More Notes from Ben Spoon](http://blog.benspoon.com/js-conf-notes/)
+- [Notes from Noah Chase](https://github.com/nchase/talks/tree/master/2015/jsconf)
+- [Notes from Ben Spoon](http://blog.benspoon.com/js-conf-notes/)
+- [Notes from Jennifer Mann](https://gist.github.com/jennifer-mann/544da3863bbe47773d70)
 - [The Lebron Stack](http://lebron.technology/)
+- [NodeBots Slides](https://dl.dropboxusercontent.com/u/3531958/jsconf-2015/index.html#/)
+- [Headless Testing Slides with Mike Ball](http://mdb.github.io/testing-with-xvfb/#/)
+
