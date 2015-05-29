@@ -16,4 +16,9 @@ Umm... I have to do WHAT to run this code? by [Gord Tanner](http://twitter.com/g
 1. comment what your code does <-- this is self documenting
 2. why your code is doing that
 
-- Use [Vagrant](https://www.vagrantup.com/)! But hide the fact that you're using it.
+- Use [Vagrant](https://www.vagrantup.com/)!
+- Check your clock with your oAuth provider -- make sure its in line
+- LiveReload --> check services affected
+- Integrate LiveReload with grunt, gulp, also use Nodemon
+
+> The reason we bring new people into our projects is to learn from them

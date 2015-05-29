@@ -4,7 +4,7 @@
 
 Talk Title | Speaker | My Notes | Talk Slides | Notes
 ---- | --- | --- | --- | ---
-Accessibility and JS | [Felipe de Albuquerque](https://twitter.com/felipedeolinda) | [Link](/01-accessibility-and-js.md) | | Non-English, interesting experience
+Accessibility and JS | [Felipe de Albuquerque](https://twitter.com/felipedeolinda) | [Link](/01-accessibility-and-js.md) | | Non-English talk experience
 Build the Mobile Web You Want | [Kate Hudson](http://twitter.com/k88hudson) | [Link](/02-build-the-mobile-web-you-want.md) | | Wonderful speaker, super engaging
 Communicate All the Things... With WebRTC! | [Kyle Tyacke](https://twitter.com/geekgonenomad) | [Link](/03-web-rtc.md) | [Link](https://github.com/ktyacke/respoke-webrtc-preso) | Respoke demo, feature walk-through
 Making Relational Cool Again | [Tim Griesser](https://twitter.com/tgriesser) |  | [Link](https://speakerdeck.com/tgriesser/making-relational-cool-again-or-javascript-on-acid) |
@@ -40,5 +40,7 @@ Umm... I have to do WHAT to run this code? | [Gord Tanner](http://twitter.com/go
 - [Headless Testing Slides with Mike Ball](http://mdb.github.io/testing-with-xvfb/#/)
 - [Hybrid Backbone/React App Notes](http://ja.mesbrown.com/2015/05/the-hybrid-backbone-react-app-peter-piekarczyk-jsconf-2015/)
 - [Donato Borrello's Notes](https://github.com/donato/notes/tree/master/jsconf-2015)
-- [ES6 Overview Training](http://johnkpaul.github.io/presentations/jsconf/2015/es6-overview/#/) |
+- [ES6 Overview Training](http://johnkpaul.github.io/presentations/jsconf/2015/es6-overview/#/)
+- [Debugging Deep Dive Slides](http://brianarn.github.io/jsconf-2015-debugging/presentation/#/)
+- [Debugging Deep Dive Repo](https://github.com/brianarn/jsconf-2015-debugging)
 
