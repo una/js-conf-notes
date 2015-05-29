@@ -29,7 +29,8 @@ Umm... I have to do WHAT to run this code? | [Gord Tanner](http://twitter.com/go
 Nodebots: LIVE! | [Kassandra Perch](http://twitter.com/nodebotanist) | [Link](/15-nodebots.md) | | Really cool panel and demos :)
 If you wish to learn ES6/2015 from scratch, you must first invent the universe | [Ashley Williams](http://twitter.com/ag_dubs) | [Link](/16-invent-universe.md) | [Link](http://ashleygwilliams.github.io/jsconf-2015-deck/#) | AMAZING TALK :tada:
 JavaScript Transformation | [Sebastian McKenzie](http://twitter.com/sebmck) | [Link](/17-js-transformation.md) | |
-
+30 Minutes or Less: The Magic of Automated Accessibility Testing | [Marcy Sutton](http://twitter.com/marcysutton) | [Link](18-automated-a11y.md) | [Link](https://github.com/angular/material-start) | Awesome links & points to consider :dolphin:
+Altering the real world with JavaScript | [Jan Jongboom](http://twitter.com/janjongboom) | [Link](19-real-world-js.md) | |
 
 ## More Notes & Links
 
