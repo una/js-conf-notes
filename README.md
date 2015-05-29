@@ -27,6 +27,7 @@ Web Audio API | [Steve Kinney](http://twitter.com/stevekinney) | [Link](/13-web-
 Mutations in Relay | [Laney Kuenzel](https://twitter.com/laneykuenzel) | | [Link](https://speakerdeck.com/laneyk/mutations-in-relay) |
 Umm... I have to do WHAT to run this code? | [Gord Tanner](http://twitter.com/gordtanner) | [Link](/14-os-projects.md) | |
 Nodebots: LIVE! | [Kassandra Perch](http://twitter.com/nodebotanist) | [Link](/15-nodebots.md) | | Really cool panel and demos :)
+If you wish to learn ES6/2015 from scratch, you must first invent the universe | [Ashley Williams](http://twitter.com/ag_dubs) | [Link](/16-invent-universe.md) | [Link](http://ashleygwilliams.github.io/jsconf-2015-deck/#) |
 
 ## More Notes & Links
 
