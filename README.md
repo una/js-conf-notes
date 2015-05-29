@@ -21,6 +21,7 @@ Talk Title | Speaker | My Notes | Talk Slides | Notes
 ---- | --- | --- | --- | ---
 Re-examining Recipe Search | [Tracy Hinds](http://twitter.com/hackygolucky) | [Link](/11-graph-database.md) | | Beautiful slides
 Recreating a Dial-up Modem in JS | [Sam Saccone](http://twitter.com/samccone) | [Link](/12-dialup-modem.md) | [Link](http://slides.com/samccone/jsconf-us/#/) | Really unique & super interesting talk :sound:
+Web Audio API | [Steve Kinney](http://twitter.com/stevekinney) | [Link](/13-web-audio.md) | [Link](https://github.com/stevekinney/making-music) |
 
 ## More Links
 
