@@ -22,8 +22,8 @@ Talk Title | Speaker | My Notes | Talk Slides | Notes
 ---- | --- | --- | --- | ---
 Re-examining Recipe Search | [Tracy Hinds](http://twitter.com/hackygolucky) | [Link](/11-graph-database.md) | | Beautiful slides
 Recreating a Dial-up Modem in JS | [Sam Saccone](http://twitter.com/samccone) | [Link](/12-dialup-modem.md) | [Link](http://slides.com/samccone/jsconf-us/#/) | Really unique & super interesting talk :sound:
-The Hybrid App: Backbone & React | [Peter Piekarczyk](https://twitter.com/peterpme) |  | [Link](https://speakerdeck.com/ppiekarczyk/the-hybrid-backbone-and-react-app#) |
-Web Audio API | [Steve Kinney](http://twitter.com/stevekinney) | [Link](/13-web-audio.md) | [Link](https://github.com/stevekinney/making-music) | Definitely check out the demos! :musical_note:
+The Hybrid Backbone & React App | [Peter Piekarczyk](https://twitter.com/peterpme) |  | [Link](https://speakerdeck.com/ppiekarczyk/the-hybrid-backbone-and-react-app#) |
+Building a musical instrument with the Web Audio API | [Steve Kinney](http://twitter.com/stevekinney) | [Link](/13-web-audio.md) | [Link](https://github.com/stevekinney/making-music) | Definitely check out the demos! :musical_note:
 Mutations in Relay | [Laney Kuenzel](https://twitter.com/laneykuenzel) | | [Link](https://speakerdeck.com/laneyk/mutations-in-relay) |
 Umm... I have to do WHAT to run this code? | [Gord Tanner](http://twitter.com/gordtanner) | [Link](/14-os-projects.md) | |
 Nodebots: LIVE! | [Kassandra Perch](http://twitter.com/nodebotanist) | [Link](/15-nodebots.md) | | Really cool panel and demos :)
@@ -48,4 +48,4 @@ Altering the real world with JavaScript | [Jan Jongboom](http://twitter.com/janj
 - [ES6 Overview Training](http://johnkpaul.github.io/presentations/jsconf/2015/es6-overview/#/)
 - [Debugging Deep Dive Slides](http://brianarn.github.io/jsconf-2015-debugging/presentation/#/)
 - [Debugging Deep Dive Repo](https://github.com/brianarn/jsconf-2015-debugging)
-
+- [React.js Training](http://codewinds.com/blog/2015-05-29-jsconf-reactjs.html)
