@@ -4,10 +4,10 @@
 
 Talk Title | Speaker | My Notes | Talk Slides | Notes
 ---- | --- | --- | --- | ---
-Accessibility and JS | [Felipe de Albuquerque](https://twitter.com/felipedeolinda) | [Link](/01-accessibility-and-js.md) | | Non-English, which was a unique experience
+Accessibility and JS | [Felipe de Albuquerque](https://twitter.com/felipedeolinda) | [Link](/01-accessibility-and-js.md) | | Non-English, interesting experience
 Build the Mobile Web You Want | [Kate Hudson](http://twitter.com/k88hudson) | [Link](/02-build-the-mobile-web-you-want.md) | | Wonderful speaker, super engaging
-Communicate All the Things... With WebRTC! | [Kyle Tyacke](https://twitter.com/geekgonenomad) | [Link](/03-web-rtc.md) | [Link](https://github.com/ktyacke/respoke-webrtc-preso) | Respoke demo, feature walkthrough
-You Wont Believe This One Weird Way to Rewrite Closures | [Jonathan Martin](https://twitter.com/nybblr) | [Link](/04-closures.md) | | Awesome live presentation, very well prepared
+Communicate All the Things... With WebRTC! | [Kyle Tyacke](https://twitter.com/geekgonenomad) | [Link](/03-web-rtc.md) | [Link](https://github.com/ktyacke/respoke-webrtc-preso) | Respoke demo, feature walk-through
+You Wont Believe This One Weird Way to Rewrite Closures | [Jonathan Martin](https://twitter.com/nybblr) | [Link](/04-closures.md) | | Very well prepared live presentation
 JavaScript CSS | [Parsha Pourkhomami](http://twitter.com/parshap) | [Link](/05-js-css.md) | | Well-timed examples and pace, interesting ideas
 (math == art && art == code) | [John Brown](http://twitter.com/thisisjohnbrown) | [Link](/06-code-art.md) | | Amazing demos & talk, see his Codepen for more! :sparkles:
 Knitting for Javascripters | [Mariko Kosaka](http://twitter.com/kosamari) | [Link](/07-knitting-for-jsers.md) | [Link](http://kosamari.com/presentation/jsconf-2015/)| Really fun talk, highly recommend checking out slides :star:
@@ -20,7 +20,7 @@ Amazing Things One Can Do With JS and the NES | [Michael Matuzak](http://twitter
 Talk Title | Speaker | My Notes | Talk Slides | Notes
 ---- | --- | --- | --- | ---
 Re-examining Recipe Search | [Tracy Hinds](http://twitter.com/hackygolucky) | [Link](/11-graph-database.md) | | Beautiful slides
-Recreating a Dial-up Modem in JS | [Sam Saccone](http://twitter.com/samccone) | [Link](/12-dialup-modem.md) | [Link](http://slides.com/samccone/jsconf-us/#/) |
+Recreating a Dial-up Modem in JS | [Sam Saccone](http://twitter.com/samccone) | [Link](/12-dialup-modem.md) | [Link](http://slides.com/samccone/jsconf-us/#/) | Really unique & super interesting talk :sound:
 
 ## More Links
 
