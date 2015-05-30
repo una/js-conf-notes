@@ -30,7 +30,7 @@ Nodebots: LIVE! | [Kassandra Perch](http://twitter.com/nodebotanist) | [Link](/1
 If you wish to learn ES6/2015 from scratch, you must first invent the universe | [Ashley Williams](http://twitter.com/ag_dubs) | [Link](/16-invent-universe.md) | [Link](http://ashleygwilliams.github.io/jsconf-2015-deck/#) | AMAZING TALK :tada:
 JavaScript Transformation | [Sebastian McKenzie](http://twitter.com/sebmck) | [Link](/17-js-transformation.md) | |
 30 Minutes or Less: The Magic of Automated Accessibility Testing | [Marcy Sutton](http://twitter.com/marcysutton) | [Link](18-automated-a11y.md) | [Link](https://github.com/angular/material-start) | Awesome links & points to consider :dolphin:
-Altering the real world with JavaScript | [Jan Jongboom](http://twitter.com/janjongboom) | [Link](19-real-world-js.md) | |
+Altering the real world with JavaScript | [Jan Jongboom](http://twitter.com/janjongboom) | [Link](19-real-world-js.md) | [Link](http://www.slideshare.net/janjongboom/altering-the-real-world-with-javascript-jsconfus-2015) | So funny, great conf close
 
 ## More Notes & Links
 
@@ -49,3 +49,4 @@ Altering the real world with JavaScript | [Jan Jongboom](http://twitter.com/janj
 - [Debugging Deep Dive Slides](http://brianarn.github.io/jsconf-2015-debugging/presentation/#/)
 - [Debugging Deep Dive Repo](https://github.com/brianarn/jsconf-2015-debugging)
 - [React.js Training](http://codewinds.com/blog/2015-05-29-jsconf-reactjs.html)
+- [Noah Chase's Notes](https://github.com/nchase/talks/tree/master/2015/jsconf)

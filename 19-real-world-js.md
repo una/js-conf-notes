@@ -11,3 +11,4 @@ Altering the Real World with JavaScript by [Jan Jongboom](http://twitter.com/jan
 - can scan BLE (Bluetooth low energy) with js `var adapter = navigator.mozBluetooth.defaultAdapter; adapter.startLeScan([]) ...`
 - JS baby monitor!
 - tag baby w/chip, get 3 beacons around it, do some math --> can locate baby in room
+- Baby generated music! :sound:
